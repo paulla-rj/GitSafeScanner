@@ -8,6 +8,12 @@ Scanner estático para triagem de repositórios Git — detecta padrões potenci
 - `repositorios/` — repositórios clonados para análise  
 - `relatorios/` — arquivos JSON gerados com os resultados
 
+<img width="873" height="590" alt="gifsafe" src="https://github.com/user-attachments/assets/2dd44828-b0da-4cad-bc99-ef2cebccd52c" />
+
+
+
+
+
 ## Uso rápido
 ```bash
 python scanner/static_repo_scanner.py "repositorios/meu-repo" --out relatorios/meu-repo.json
