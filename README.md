@@ -1,7 +1,7 @@
-**Aviso:** não execute código desconhecido diretamente no seu PC. Sempre escaneie e revise antes — nem todo mundo na internet é confiável.
+**Aviso:** não execute código desconhecido diretamente no seu PC. Sempre escaneie e revise antes, nem todo mundo na internet é legal!
 
-Scanner estático para triagem de repositórios Git — detecta padrões potencialmente perigosos em texto e em código Python.  
-**Atenção:** o scanner **não executa** o código dos repositórios; lê e analisa apenas.
+Scanner estático para verificação de repositórios GitHub, que detecta padrões potencialmente perigosos em texto e em código Python.  
+**Atenção:** o scanner **não executa** o código dos repositórios; só lê e analisa.
 
 ## Estrutura
 - `scanner/` — código do scanner (static_repo_scanner.py)  
